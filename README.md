@@ -225,4 +225,4 @@ Garmin BaseCamp is offered as a **full free version**, providing all features an
 Take your outdoor adventures to the next level with **Garmin BaseCamp**! Download now and start planning your routes for free!
 
 ---
-**Last updated:** 2026-11-05 14:12:47 UTC
+**Last updated:** 2026-11-05 21:21:26 UTC
